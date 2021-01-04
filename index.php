@@ -9,7 +9,7 @@
 </head>
 <link rel="stylesheet" href="style.css">
 <body>
-<h1>Quản lý sinh vien</h1>
+<h1>Quản lý sinh viên</h1>
 
 <form method="get">
 
