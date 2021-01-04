@@ -1,10 +1,10 @@
 <?php
 
 class Student{
-
-    public $ten;
-    public $tuoi;
-    public $lop;
+/*THuộc tính  Alt+*/
+    private $ten;
+    private $tuoi;
+    private $lop;
 
     /**
      * Student constructor.
