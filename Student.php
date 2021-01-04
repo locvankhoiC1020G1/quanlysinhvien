@@ -1,7 +1,13 @@
 <?php
 
 class Student{
-/*THuộc tính  Alt+*/
+/*THuộc tính  Alt+insert
+
+
+dùng get set khi thuộc tính là p
+
+
+*/
     private $ten;
     private $tuoi;
     private $lop;
