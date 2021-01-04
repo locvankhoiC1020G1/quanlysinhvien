@@ -10,17 +10,32 @@
 <link rel="stylesheet" href="style.css">
 <body>
 <h1>Quản lý sinh vien</h1>
+
+<form method="get">
+
+    <label for="timkiem"></label>
+    <input type="text" name="search" id="timkiem">
+    <input type="submit" value="Tìm Kiếm ">
+    <input type="submit" value="Thêm">
+</form>
 <table>
 
     <tr>
         <td>Tên SV</td>
         <td>Tuổi</td>
         <td>Lớp</td>
+        <td>
+
+        </td>
     </tr>
     <tr>
         <td></td>
         <td></td>
         <td></td>
+        <td> <form>
+                <input type="submit" value="Sửa">
+                <input type="submit" value="xóa">
+            </form></td>
     </tr>
 </table>
 <form>
