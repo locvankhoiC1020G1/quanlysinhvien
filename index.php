@@ -1,3 +1,8 @@
+<?php
+include_once 'studentManager';
+include_once 'Student.php';
+include_once 'data.php'
+?>
 <!doctype html>
 <html lang="en">
 <head>
